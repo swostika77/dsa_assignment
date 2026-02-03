@@ -20,16 +20,27 @@ We used a **stack** implemented as an array to store opening brackets.
    - Main function to check the whole expression
    - Returns 1 if balanced, 0 if not
 
-## Main Function Overview
 
-- We declared three test expressions
+## Main Function Overview
+- Three test expressions are declared:
+  1. `"a + (b - c) * (d"`
+  2. `"m + [a - b * (c + d * {m)]"`
+  3. `"a + (b - c)"`  
 - For each expression:
-  - Reset the stack
-  - Called `isBalanced()`
-  - Printed the result: "Balanced" or "Not Balanced"
+  1. Reset `top = -1` (empty stack)  
+  2. Call `isBalanced()`  
+  3. Print result: `"Balanced"` or `"Not Balanced"`  
+
+- This structure allows **easy testing** of multiple expressions sequentially.
+
 
 ## Sample Output
+Expression 1: Not Balanced  
+Expression 2: Not Balanced  
+Expression 3: Balanced  
 
-Expression 1: Not Balanced
-Expression 2: Not Balanced
-Expression 3: Balanced
+
+## Notes and Observations
+- The program **only checks brackets**, it ignores other characters like letters, numbers, or operators.  
+- Maximum stack size is **100**, so expressions longer than 100 brackets may fail.  
+- Stack is ideal here because it efficiently keeps track of **nested brackets**.  
