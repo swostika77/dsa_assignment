@@ -73,5 +73,17 @@ Evaluated result: 10
 
 **Example 3:**  
 Enter an infix expression:3+7/(2+3)*2  
+
 Postfix expression: 3723+/2*+  
 Evaluated result: 5  
+
+---
+
+## Notes and Observations
+
+- Only **single-digit numbers** are supported in this implementation  
+- Stack is essential for handling **operator precedence** and parentheses  
+- Multi-digit support requires additional logic (not included here)  
+- The program separates **conversion** and **evaluation** for clarity  
+- Proper use of `'\0'` ensures the postfix string is correctly terminated  
+- Space formatting is optional since operands are single digits
