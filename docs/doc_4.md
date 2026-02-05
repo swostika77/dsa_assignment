@@ -51,11 +51,11 @@ We used a **doubly linked list** to store integer data.
 
 ---
 
-## Sample Output
+## Sample Output  
 
-Original List: 10 20 30
-After inserting 25 after 20: 10 20 25 30 
-After deleing 30: 10 20 25
+Original List: 10 20 30  
+After inserting 25 after 20: 10 20 25 30  
+After deleing 30: 10 20 25  
 
 
 ---

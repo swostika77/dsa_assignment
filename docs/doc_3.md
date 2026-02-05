@@ -47,7 +47,7 @@ This approach clearly demonstrates the **reverse traversal algorithm**.
 ---
 
 ## Sample Output
-Original Linked List: 10 20 30 40
+Original Linked List: 10 20 30 40  
 Reverse Traversal: 40 30 20 10
 
 ---

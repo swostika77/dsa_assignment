@@ -74,8 +74,8 @@ Enter elements:
 
 ---
 
-##Sample Output
-Min Heap: 9 12 10 18 34 21 32 45 
+## Sample Output  
+Min Heap: 9 12 10 18 34 21 32 45  
 Max Heap: 45 34 21 32 12 9 10 18
 
 

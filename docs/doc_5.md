@@ -171,9 +171,9 @@ Enter edges(u v) with 0-based indexing:
 3 4
 
 ---
-##Sample Output
-DFS traversal starting from vertex 0: 0 1 2 4 3 
-BFS traversal starting from vertex 0: 0 1 2 3 4 
+## Sample Output
+DFS traversal starting from vertex 0: 0 1 2 4 3  
+BFS traversal starting from vertex 0: 0 1 2 3 4  
 
 
 **Note:** DFS output may vary depending on the order edges were added.
