@@ -1,5 +1,10 @@
 # Question 2: Infix to Postfix Conversion and Evaluation
 
+## Problem Statement
+
+The objective of this program is to convert a mathematical expression written in infix notation into postfix notation and then evaluate the postfix expression. The implementation must correctly handle operator precedence and parentheses using stack data structures.
+
+
 ## Data Structure Used
 We used **stacks** to implement both **operator handling** and **postfix evaluation**:
 

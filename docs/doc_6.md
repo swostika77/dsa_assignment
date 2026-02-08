@@ -1,5 +1,11 @@
 # Question 6: Building Min Heap and Max Heap from an Unsorted Array
 
+## Problem Statement
+
+The objective of this program is to construct both a min heap and a max heap from an unsorted array of integers. The program must demonstrate the heap-building process and display the resulting heap structures.
+
+
+
 ## Data Structure Used
 We used an **array-based heap** representation.
 

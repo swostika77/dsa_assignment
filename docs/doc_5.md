@@ -1,5 +1,11 @@
 # Question 5: Undirected Graph Using Adjacency Matrix with BFS and DFS
+  
 
+## Problem Statement
+
+The objective of this program is to represent an undirected graph using an adjacency matrix and implement both Breadth-First Search (BFS) and Depth-First Search (DFS) traversal techniques. The program must demonstrate graph traversal starting from a chosen vertex.
+ 
+ 
 ## Data Structure Used
 We used an **undirected graph** represented by an **adjacency matrix**.
 

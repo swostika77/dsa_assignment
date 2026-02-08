@@ -1,5 +1,10 @@
 # Question 3: Reverse Traversal of a Linked List
 
+## Problem Statement
+
+The objective of this program is to implement a singly linked list and perform reverse traversal without modifying the actual list structure. The reverse traversal must be implemented using recursion and demonstrated in the main function.
+
+
 ## Data Structure Used
 We used a **singly linked list** to store integer data.
 

@@ -1,5 +1,11 @@
 # Question 4: Doubly Linked List (Insert and Delete)
 
+
+## Problem Statement
+
+The objective of this program is to implement a doubly linked list using structures in C. The program must provide functions to insert a node after a given node and delete a specific node. The implementation should demonstrate proper management of both next and previous pointers.
+
+
 ## Data Structure Used
 We used a **doubly linked list** to store integer data.
 

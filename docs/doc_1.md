@@ -1,5 +1,10 @@
 # Question 1: Balanced Parentheses
 
+## Problem Statement
+
+The objective of this program is to check whether a given mathematical expression contains balanced parentheses. The program must verify correct matching of different types of brackets such as (), {}, and [] using a stack data structure. If every opening bracket has a corresponding closing bracket in the correct order, the expression is considered balanced.
+
+
 ## Data Structure Used
 We used a **stack** implemented as an array to store opening brackets. 
 - Stack works as LIFO (Last In First Out)

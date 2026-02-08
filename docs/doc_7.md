@@ -1,5 +1,12 @@
 # Question 7: Dijkstra's Algorithm for Shortest Paths
 
+
+## Problem Statement
+
+The objective of this program is to implement Dijkstra’s algorithm to compute the shortest path from a selected source vertex to all other vertices in a weighted graph. The graph is represented using an adjacency matrix.
+
+
+
 ## Data Structure Used
 We used an **adjacency matrix** to represent a **weighted graph**:
 

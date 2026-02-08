@@ -1,5 +1,11 @@
 # Question 8: Sorting Random Integers Using Different Sorting Algorithms
 
+
+## Problem Statement
+
+The objective of this program is to generate N random integers within the range [1, 1000], allow the user to select a sorting algorithm, sort the numbers using the selected method, and display the number of comparisons and swaps performed. The program demonstrates the performance differences among multiple sorting techniques.
+
+
 ## Data Structure Used
 We used a **one-dimensional array** to store integers.
 
