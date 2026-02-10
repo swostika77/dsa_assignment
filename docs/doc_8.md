@@ -1,5 +1,12 @@
 # Question 8: Sorting Random Integers Using Different Sorting Algorithms
 
+## Introduction
+
+Sorting is a fundamental operation in computer science used to arrange data in a specific order. Different sorting algorithms vary in efficiency, number of comparisons, and number of swaps performed. Understanding their behavior is important for analyzing algorithm performance.
+
+This program generates random integers and sorts them using multiple sorting techniques while tracking comparisons and swaps to compare efficiency.
+
+---
 
 ## Problem Statement
 

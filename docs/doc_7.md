@@ -1,5 +1,13 @@
 # Question 7: Dijkstra's Algorithm for Shortest Paths
 
+## Introduction
+
+Finding the shortest path in a weighted graph is a common problem in computer science and real-world applications such as navigation systems and network routing. Dijkstra’s algorithm is a greedy algorithm that efficiently computes the shortest path from a single source vertex to all other vertices in a graph with non-negative weights.
+
+This program implements Dijkstra’s algorithm using an adjacency matrix representation.
+
+---
+
 
 ## Problem Statement
 

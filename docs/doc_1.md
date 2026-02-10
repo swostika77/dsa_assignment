@@ -1,5 +1,13 @@
 # Question 1: Balanced Parentheses
 
+## Introduction
+
+Balanced parentheses checking is a fundamental application of the stack data structure. In mathematical expressions and programming languages, brackets must appear in matching pairs and in the correct order. Incorrectly balanced parentheses may lead to syntax errors or incorrect computations.
+
+This program demonstrates how a stack can be used to efficiently verify whether an expression contains properly matched and ordered brackets.
+
+---
+
 ## Problem Statement
 
 The objective of this program is to check whether a given mathematical expression contains balanced parentheses. The program must verify correct matching of different types of brackets such as (), {}, and [] using a stack data structure. If every opening bracket has a corresponding closing bracket in the correct order, the expression is considered balanced.

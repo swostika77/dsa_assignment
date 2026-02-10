@@ -1,5 +1,13 @@
 # Question 3: Reverse Traversal of a Linked List
 
+## Introduction
+
+A linked list is a dynamic linear data structure where elements are connected using pointers. Traversing a linked list normally prints elements from head to tail. However, reverse traversal without modifying the structure requires recursion or auxiliary storage.
+
+This program demonstrates reverse traversal of a singly linked list using recursion, highlighting the use of function call stack behavior.
+
+---
+
 ## Problem Statement
 
 The objective of this program is to implement a singly linked list and perform reverse traversal without modifying the actual list structure. The reverse traversal must be implemented using recursion and demonstrated in the main function.

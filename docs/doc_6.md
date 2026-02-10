@@ -1,5 +1,13 @@
 # Question 6: Building Min Heap and Max Heap from an Unsorted Array
 
+## Introduction
+
+A heap is a specialized binary tree-based data structure that satisfies the heap property. In a min heap, the parent node is smaller than its children, whereas in a max heap, the parent node is larger than its children.
+
+This program demonstrates how to construct both min and max heaps from an unsorted array and illustrates the heap-building process.
+
+---
+
 ## Problem Statement
 
 The objective of this program is to construct both a min heap and a max heap from an unsorted array of integers. The program must demonstrate the heap-building process and display the resulting heap structures.
@@ -67,16 +75,16 @@ This approach ensures the **original data is preserved** while creating both hea
 
 ## Sample Input
 
-Enter number of elements to build max heap and min heap: 8
-Enter elements:
-32
-34
-21
-18
-12 
-9
-10
-45
+Enter number of elements to build max heap and min heap: 8  
+Enter elements:  
+32  
+34  
+21  
+18  
+12  
+9  
+10  
+45  
 
 ---
 

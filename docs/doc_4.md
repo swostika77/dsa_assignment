@@ -1,5 +1,13 @@
 # Question 4: Doubly Linked List (Insert and Delete)
 
+## Introduction
+
+A doubly linked list is a dynamic data structure in which each node contains two pointers: one pointing to the next node and another pointing to the previous node. This structure allows bidirectional traversal and efficient insertion and deletion operations.
+
+This program demonstrates the implementation of a doubly linked list and performs insertion and deletion operations while maintaining pointer integrity.
+
+---
+
 
 ## Problem Statement
 

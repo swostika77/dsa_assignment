@@ -1,5 +1,13 @@
 # Question 2: Infix to Postfix Conversion and Evaluation
 
+## Introduction
+
+In mathematical expressions, infix notation is commonly used by humans, but it is not efficient for direct evaluation by computers due to operator precedence and parentheses handling. Postfix notation (Reverse Polish Notation) eliminates the need for parentheses and makes evaluation straightforward using a stack.
+
+This program demonstrates how to convert an infix expression into postfix form and evaluate it using stack operations.
+
+---
+
 ## Problem Statement
 
 The objective of this program is to convert a mathematical expression written in infix notation into postfix notation and then evaluate the postfix expression. The implementation must correctly handle operator precedence and parentheses using stack data structures.
