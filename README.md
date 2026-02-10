@@ -1,7 +1,7 @@
 #  Data Structures and Algorithms (DSA) Assignment
 
 ##  Overview
-This repository contains implementations of fundamental **Data Structures and Algorithms** concepts in C++.  
+This repository contains implementations of fundamental **Data Structures and Algorithms** concepts in C.  
 Each program demonstrates core DSA concepts along with algorithm steps, execution results, and complexity analysis.
 
 ---
@@ -59,18 +59,19 @@ Displays:
 
 ## ▶ How to Compile and Run
 
-### Using g++
+### Using GCC 
 ```bash
-g++ program_name.cpp -o program_name
-./program_name
+gcc prog_<q>.c -o prog_<q>
+./prog_<q>
 ```
 
-### Using Windows PowerShell
+### Using Windows PowerShell (MinGW)
 ```powershell
-g++ program_name.cpp -o program_name.exe
-.\program_name.exe
+gcc prog_<q>.c -o prog_<q>.exe
+.\prog_<q>.exe
 ```
 
+where `<q>` corresponds to the question number.
 ---
 
 ##  Conclusion
