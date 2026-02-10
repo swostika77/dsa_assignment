@@ -42,13 +42,11 @@ void minHeapify(int arr[], int n, int i) {
     }
 }
 
-/* Build Max Heap */
 void buildMaxHeap(int arr[], int n) {
     for(int i = n/2 - 1; i >= 0; i--)
         maxHeapify(arr, n, i);
 }
 
-/* Build Min Heap */
 void buildMinHeap(int arr[], int n) {
     for(int i = n/2 - 1; i >= 0; i--)
         minHeapify(arr, n, i);
@@ -71,7 +69,6 @@ int main() {
     for(int i = 0; i < n; i++)
         scanf("%d", &arr[i]);
 
-    // Copy array for min and max heap
     for(int i = 0; i < n; i++) {
         minHeap[i] = arr[i];
         maxHeap[i] = arr[i];

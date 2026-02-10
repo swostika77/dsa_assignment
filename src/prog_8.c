@@ -7,7 +7,6 @@
 int comparisons = 0;
 int swaps = 0;
 
-// Swap function 
 void swap(int *a, int *b){
     int temp = *a;
     *a = *b;
@@ -94,7 +93,7 @@ void mergeSort(int arr[], int l, int r){
     }
 }
 
-// Display array 
+
 void display(int arr[], int n){
     for(int i=0;i<n;i++) printf("%d ", arr[i]);
     printf("\n");
@@ -119,7 +118,7 @@ int main(){
     scanf("%d",&choice);
 
     int temp[n];
-    for(int i=0;i<n;i++) temp[i]=arr[i]; // copy original array
+    for(int i=0;i<n;i++) temp[i]=arr[i]; 
 
     switch(choice){
         case 1: bubbleSort(temp,n); printf("Bubble Sort:\n"); break;

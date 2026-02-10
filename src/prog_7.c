@@ -14,7 +14,7 @@ int minDistance(int distance[],int visited[]){
     }
     return minindex;
 }
-//Dijkstra's Algorithm
+
 void dijkstra(int src){
     int distance[MAX],visited[MAX];
     for(int i=0;i<n;i++){
