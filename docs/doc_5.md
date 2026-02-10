@@ -66,15 +66,15 @@ This demonstrates **both DFS and BFS** clearly on an undirected graph.
 
 ## Sample Input
 
-Enter number of vertices: 5
-Enter the number edges:6
-Enter edges(u v) with 0-based indexing:  
-0 1
-0 2
-1 2
-1 3
-2 4
-3 4
+Enter number of vertices: 5  
+Enter the number edges:6  
+Enter edges(u v) with 0-based indexing:    
+0 1  
+0 2  
+1 2  
+1 3  
+2 4  
+3 4  
 
 ---
 ## Sample Output
